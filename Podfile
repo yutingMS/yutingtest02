@@ -3,6 +3,7 @@
 
 target 'yutingtest02' do
 pod 'AppCenter'
+pod 'AppCenter/Push'
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
