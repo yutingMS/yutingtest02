@@ -368,10 +368,10 @@
 				DEVELOPMENT_TEAM = 46KT2CB36Z;
 				INFOPLIST_FILE = yutingtest02/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.stonemsft.yutingtest02;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stonemsft.apns;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4d7292bc-2799-4951-8607-8f9c64ee5af7";
-				PROVISIONING_PROFILE_SPECIFIER = "Stone iOS Development";
+				PROVISIONING_PROFILE = "f0a8b156-6166-4e64-aedc-75c248876176";
+				PROVISIONING_PROFILE_SPECIFIER = Stone_iOS_Development_APNS;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -387,10 +387,10 @@
 				DEVELOPMENT_TEAM = 46KT2CB36Z;
 				INFOPLIST_FILE = yutingtest02/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.stonemsft.yutingtest02;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stonemsft.apns;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4d7292bc-2799-4951-8607-8f9c64ee5af7";
-				PROVISIONING_PROFILE_SPECIFIER = "Stone iOS Development";
+				PROVISIONING_PROFILE = "f0a8b156-6166-4e64-aedc-75c248876176";
+				PROVISIONING_PROFILE_SPECIFIER = Stone_iOS_Development_APNS;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
